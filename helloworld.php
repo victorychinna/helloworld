@@ -1,12 +1,12 @@
 <?php
 /*
- * Plugin Name: Hello World
+ * Plugin Name: Test Plugin
  * Version: 1.0.0
- * Description: In tribute to the famous "Hello Dolly" plugin by Matt Mullenweg comes this new plugin. And how could someone possible name a new default plugin other than "Hello World", as it's THE definition for a default example :)
- * Author: Bernhard Kau
- * Author URI: http://kau-boys.de
- * Plugin URI: https://github.com/2ndkauboy/hello-world
- * Text Domain: hello-world
+ * Description:this is test plugin tested by sathibabu :)
+ * Author: sathibabu
+ * Author URI: http://sathibabu.com
+ * Plugin URI: https://github.com/victorychinna/helloworld
+ * Text Domain: test
  * Domain Path: /languages
  * License: GPLv3
  * License URI: http://www.gnu.org/licenses/gpl-3.0
