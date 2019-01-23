@@ -1,8 +1,8 @@
 <?php
 /*
- * Plugin Name: Hari Plugin
+ * Plugin Name: HariPlugin
  * Version: 1.0.0
- * Description:this is Hari plugin tested by sathibabu :)
+ * Description:this is Hari plugin tested by hari :)
  * Author: sathibabu
  * Author URI: http://hari.com
  * Plugin URI: https://github.com/victorychinna/helloworld
