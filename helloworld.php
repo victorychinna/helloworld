@@ -1,12 +1,12 @@
 <?php
 /*
- * Plugin Name: Test Plugin
+ * Plugin Name: Hari Plugin
  * Version: 1.0.0
- * Description:this is test plugin tested by sathibabu :)
+ * Description:this is Hari plugin tested by sathibabu :)
  * Author: sathibabu
- * Author URI: http://sathibabu.com
+ * Author URI: http://hari.com
  * Plugin URI: https://github.com/victorychinna/helloworld
- * Text Domain: test
+ * Text Domain: hari
  * Domain Path: /languages
  * License: GPLv3
  * License URI: http://www.gnu.org/licenses/gpl-3.0
